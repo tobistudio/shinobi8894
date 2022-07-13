@@ -66,29 +66,22 @@ Rakuten
 <pre>
 <img src="https://user-images.githubusercontent.com/92864027/178745643-16673acc-6aeb-44e5-8783-855b03ccfe61.png" width="350" align="left" height="600">
 <pre>
-<b>SKILL</b>
+<b>Contact Me </b>
+<br>
+<img src="https://user-images.githubusercontent.com/92864027/178748382-fd273c1a-39e8-4d33-bf65-c574bd9cde62.png" align="left" width="30">  Developer0416
+<br>
+<img src="https://user-images.githubusercontent.com/92864027/178748812-ba9222ef-eb0b-4887-90e8-54924e702a66.png" align="left" width="30">  Shinobi#6939
+<br>
+<img src="https://user-images.githubusercontent.com/92864027/178749353-3c3247b3-e079-4ff6-abb9-c81d1fd8c76c.png" align="left" width="30">  shinobitensei416@gmail.com
+<br>
+<br>
+I am always ready to work
+Please let me know if you have any projects or ideas.
+Long term partnership is more preferred
+🎉 Thank you for your watch 🎉
 
-<b>Web Development</b>
-
-🔸 HTML5, CSS, JavaScript, TypeScript
-🔸 React, Vue, Angular, Node.js, Next.js, Nuxt.js, Nest.js
-🔸 PHP, Laravel, Think PHP, CI
-🔸 Statatic, Wordpress, October, GraphCMS
-🔸 Web Design, Responsive Design, UX/UI improve
-🔸 SQL, MySQL, MongoDB, Firebase, PostgreSQL
-🔸 Data Visualization such as D3.js, Apex Chart, Google Chart
-🔸 API Development : Twillo API, Google API, Quote API, Binance API
-🔸 Web Scrapping, Django, ROR
-
-<b>Blockchain</b>
-
-🔸 Smart Contract, DeFi, in Ethereum
-🔸 Smart Contract (ERC20 + ERC721) and Audit
-🔸 DApps development - Solidity/Rust + web3.js/ethers.js
-🔸 Integration with crypto wallets such as Metamask.
-🔸 NFT marketplace,
-🔸 NFTs (ERC-721, ERC-1155, Flow, BSC,Solana, Polygon, Opensea, Nifty, etc)
 </pre>
 </pre>
+
 <br><br><br>
 </div>
